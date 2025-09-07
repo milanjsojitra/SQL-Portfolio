@@ -1,7 +1,7 @@
 ## Dataset Details  
 
 This dataset was from the [Layoffs Dataset](https://www.kaggle.com/datasets/swaptr/layoffs-2022/data) by swaptr.  
-It entails the tech layoffs starting from **March 11, 2020** (when COVID-19 was declared as a pandemic), to present, **June 1, 2024**.  
+It entails the tech layoffs starting from **March 11, 2020** (when COVID-19 was declared as a pandemic), to  **June 1, 2024**.  
 
 ---
 
